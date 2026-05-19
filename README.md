@@ -23,8 +23,6 @@ Vamos a realizar un proyecto  sobre una funeraria con los siguientes apartados:
 
 8-.Ejercicios de Transacciones
 
-[README (1).md](https://github.com/user-attachments/files/27988785/README.1.md)
-
 # PROYECTO BBDD — Funeraria Trujillo
 
 > Proyecto realizado por **Nicolas Ruiz Mengual**, **Oscar Castaño Cárdenas** y **Rubén Fernández Molina**.
